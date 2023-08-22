@@ -1,0 +1,13 @@
+.toolbar-spacer
+{
+  flex: 1 1 auto;
+}
+button.mat-icon-button {
+  display: none;
+}
+@media (max-width: 768px) {
+  button.mat-icon-button {
+    display: block;
+  }
+}
+
